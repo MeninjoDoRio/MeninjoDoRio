@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **40K Chainsword Blender Model**
 - 🔭 I’m currently working on **DESERT BRAWLER: A PyGame Arcade Fighter**
+- 🔭 I’m currently working on **The Mental Illness Trilogy: A Videogame Story**
 
 - 🌱 I’m currently learning **Python**
 
