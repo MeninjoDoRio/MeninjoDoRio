@@ -1,11 +1,11 @@
-# About-Me[README (1).md](https://github.com/user-attachments/files/22414754/README.1.md)
+# About-Me
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **40K Chainsword Blender Model**
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Python Language**
+- 🤝 I’m looking for help with **Python Language & UV-Editing in Blender**
 
 - 👨‍💻 All of my projects are available at [https://www.artstation.com/meninjodorio6](https://www.artstation.com/meninjodorio6)
 
