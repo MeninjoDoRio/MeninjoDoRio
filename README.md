@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/malte-haller-b752892a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/malte-haller-b752892a7/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/?newreg=aadd2d91ed254cc7b36c8d33fbe67469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/?newreg=aadd2d91ed254cc7b36c8d33fbe67469" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/malte-haller-b752892a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/malte-haller-b752892a7/" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://stackoverflow.com/?newreg=aadd2d91ed254cc7b36c8d33fbe67469](https://stackoverflow.com/users/22934839/meninjo-do-rio)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/?newreg=aadd2d91ed254cc7b36c8d33fbe67469" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
