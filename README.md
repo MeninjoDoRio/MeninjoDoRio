@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Narrative Designer, Tech-Artist, 3D Modeller and Coder</h3>
 
 - 🔭 I’m currently working on **40K Chainsword Blender Model**
-- 🔭 I’m currently working on **PyGame Game Repertoire**
+- 🔭 I’m currently working on **My "PyGame" Game Repertoire**
 - 🔭 I’m currently working on **The Mental Illness Trilogy: A Videogame Story Zine**
 
 - 🌱 I’m currently learning **Python**
