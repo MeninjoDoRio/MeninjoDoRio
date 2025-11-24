@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **My PyGame/Python Games Repertoire**
 - 🔭 I’m currently working on **Templars of the Void: A Videogame Story Zine**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & Unreal Engine**
 
 - 🤝 I’m looking for help with **Python Language & UV-Editing in Blender**
 
