@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **40K Chainsword Blender Model**
 
-- 🌱 I’m currently learning **Python & Unreal Engine**
-
 - 🔭 I’m currently working on **My PyGame Games Repertoire**
 
 - 🔭 I’m currently working on **Templars of the Void: A videogame Story Zine**
+
+- 🌱 I’m currently learning **Python & Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [https://www.artstation.com/meninjodorio6](https://www.artstation.com/meninjodorio6)
 
