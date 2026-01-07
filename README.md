@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Templars of the Void: A videogame Story Zine**
 
-- 🌱 I’m currently learning **Python & Unreal Engine**
+- 🌱 I’m currently learning **Python & PyGame**
 
 - 👨‍💻 All of my projects are available at [https://www.artstation.com/meninjodorio6](https://www.artstation.com/meninjodorio6) & https://malte-haller.itch.io/
 
