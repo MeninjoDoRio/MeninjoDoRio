@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **40K Chainsword Blender Model**
 
-- 🔭 I’m currently working on **MONSTER: A PyGame Retro Experience**
+- 🔭 I’m currently working on **MONSTER: A PyGame Retro RPG**
 
 - 🔭 I’m currently working on **Templars of the Void: A videogame Story Zine**
 
