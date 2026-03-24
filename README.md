@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cy2ac71LuTEfHl_EbWadWE7R0sYazWfq/view?pli=1](https://drive.google.com/file/d/1cy2ac71LuTEfHl_EbWadWE7R0sYazWfq/view?pli=1)
 
-- ⚡ Fun fact **Every great videogame has a good Narrative**
+- ⚡ Fun fact: **Every great videogame has a good Narrative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
