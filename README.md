@@ -1,7 +1,5 @@
 <h3 align="center">A passionate Narrative Designer, Tech-Artist, 3D Modeller and Coder</h3>
 
-- 🔭 I’m currently working on **40K Chainsword Blender Model**
-
 - 🔭 I’m currently working on **My "PyGame" Games Repertoire**
 
 - 🔭 I’m currently working on **Templars of the Void: A videogame Story Zine**
