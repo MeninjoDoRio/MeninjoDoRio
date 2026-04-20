@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Malte Haller, A passionate Narrative Designer, Tech-Artist, 3D Modeller and Coder</h1>
-<h3 align="center"></h3>
+<h1 align="center">Hi 👋, I'm Malte Haller</h1>
+<h3 align="center"> A passionate Narrative Designer, Tech-Artist, 3D Modeller and Coder</h3>
 
 - 🔭 I’m currently working on **My "PyGame" Games Repertoire**
 
