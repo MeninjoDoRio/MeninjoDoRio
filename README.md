@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **PyGame & Blender**
 
-- 👨‍💻 All of my projects are available at [https://www.artstation.com/meninjodorio6](https://www.artstation.com/meninjodorio6)
+- 👨‍💻 All of my projects are available at [https://www.artstation.com/meninjodorio6] & https://malte-haller.itch.io/ (https://www.artstation.com/meninjodorio6)
 
 - 💬 Ask me about **The Mentall Illness Trilogy**
 
