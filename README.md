@@ -1,6 +1,6 @@
 <h3 align="center"> A passionate Narrative Designer, Tech-Artist, 3D Modeller and Coder</h3>
 
-- 🔭 I’m currently working on **My "PyGame" Games Repertoire**
+- 🔭 I’m currently working on **MONSTER 2: Into The Wilds -A PyGame Retro Adventure-**
 
 - 🌱 I’m currently learning **PyGame & Unreal Engine**
 
