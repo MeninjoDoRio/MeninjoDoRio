@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Templars of the Void: A Videogame Story Zine**
 
-- 🤝 I’m looking for help with **PyGame & Blender**
+- 🤝 I’m looking for help with **PyGame**
 
 - 👨‍💻 All of my projects are available at https://www.artstation.com/meninjodorio6 & https://malte-haller.itch.io
 
