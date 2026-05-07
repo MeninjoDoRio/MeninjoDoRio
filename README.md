@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on **Templars of the Void: A Videogame Story Zine**
 
-- 🌱 I’m currently learning **PyGame & Unreal Engine**
+- 🔭 I’m currently working on **Ursina RUbik's Cube**
+
+- 🌱 I’m currently learning **PyGame & Ursina**
 
 - 🤝 I’m looking for help with **PyGame**
 
