@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **MONSTER 2: Into The Wilds -A PyGame Retro Adventure-**
 
-- 🔭 I’m currently working on **Isometric Isolation - A PyGame Puzzle**
+- 🔭 I’m currently working on **Isometric Isolation - A PyGame Narrative**
 
 - 🔭 I’m currently working on **Templars of the Void: A Videogame Story Zine**
 
