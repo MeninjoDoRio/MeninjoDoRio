@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PyGame & Ursina**
 
-- 🤝 I’m looking for help with **PyGame**
+- 🤝 I’m looking for help with **Life**
 
 - 👨‍💻 All of my projects are available at https://www.artstation.com/meninjodorio6 & https://malte-haller.itch.io
 
