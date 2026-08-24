@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **Life**
 
-- 👨‍💻 All of my projects are available at https://www.artstation.com/meninjodorio6 & https://malte-haller.itch.io
+- 👨‍💻 All of my projects are available at: https://www.artstation.com/meninjodorio6 & https://malte-haller.itch.io
 
-- 💬 Ask me about **The Mentall Illness Trilogy**
+- 💬 Ask me about: **The Mentall Illness Trilogy**
 
-- 📫 How to reach me **malte.haller@yahoo.com**
+- 📫 How to reach me: **malte.haller@yahoo.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1cy2ac71LuTEfHl_EbWadWE7R0sYazWfq/view]](https://drive.google.com/file/d/1nlo4zJPhVo6TznvtATwBS1KfWt2a787i/view)
+- 📄 Know about my experiences: [[https://drive.google.com/file/d/1cy2ac71LuTEfHl_EbWadWE7R0sYazWfq/view]](https://drive.google.com/file/d/1nlo4zJPhVo6TznvtATwBS1KfWt2a787i/view)
 
 - ⚡ Fun fact **Every great Videogame has a good Narrative**
 
